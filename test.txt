@@ -1,2 +1,4 @@
-周星驰现在看此萨拉电脑卡
+﻿周星驰现在看此萨拉电脑卡
 女婿面目出现你，马上到，ask的礼物巧克力。
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
